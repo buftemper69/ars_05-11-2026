@@ -1,0 +1,8 @@
+
+input{
+    display: flex;
+}
+
+.cheked{
+    text-decoration: line-through;
+}
